@@ -1,0 +1,492 @@
+{
+  "version": "2026-09-22.1",
+  "authority": "ATTACHED_MASTER",
+  "facts": "CANONICAL_EVENT",
+  "creative_freedom": "ZERO",
+  "ad_hoc_visuals": "FORBIDDEN",
+  "generic_cards": "FORBIDDEN",
+  "audio": {
+    "buffer_native_instagram_music": false,
+    "zero_touch_strategy": "PRE-MIXED_IN_VIDEO",
+    "approved_library": "NONE_AVAILABLE",
+    "reason": "No rights-cleared audio file is in bfyp-public-media. Static images publish with no music request. Do not use Buffer Notify Me."
+  },
+  "count": 19,
+  "templates": [
+    {
+      "TEMPLATE_ID": "X_PRINTING_PRESS_SYSTEM",
+      "FAMILY": "TPL_SYSTEM",
+      "X_TEMPLATE_ID": null,
+      "SLOT": "x_system",
+      "KIND": "X_PRESS",
+      "SOURCE_MASTER_PATH": "templates/source-masters/X_PRESS/system.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/X_PRESS/system.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/X_PRESS/system.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1000
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1500,
+        1000
+      ],
+      "SHA256_SOURCE": "acf6ab3ebd71b935fd5b22092d7e737700bc41a0d390d3438ce4e4cda73ef741",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "X_SYSTEM_MASTER"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_BTC_ETF_FLOW_STORY",
+      "FAMILY": "TPL_BTC_ETF_FLOW",
+      "X_TEMPLATE_ID": "X_TPL_BTC_ETF_FLOW",
+      "SLOT": "story",
+      "KIND": "IG_STORY",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_BTC_ETF_FLOW/story.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_BTC_ETF_FLOW/story.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_BTC_ETF_FLOW/story.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        2666
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1920
+      ],
+      "SHA256_SOURCE": "2e34b8da68db933330da9b7c95f36742a69c7b0dfd359095f4e75121827480fb",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_WALLET_WHALE_STORY",
+      "FAMILY": "TPL_WALLET_WHALE",
+      "X_TEMPLATE_ID": "X_TPL_WALLET_WHALE",
+      "SLOT": "story",
+      "KIND": "IG_STORY",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_WALLET_WHALE/story.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_WALLET_WHALE/story.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_WALLET_WHALE/story.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        2666
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1920
+      ],
+      "SHA256_SOURCE": "4646b32d230d55932f380e259165173920d08708d600850497eb160bd29ca9a6",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_SMART_MONEY_STORY",
+      "FAMILY": "TPL_SMART_MONEY",
+      "X_TEMPLATE_ID": "X_TPL_SMART_MONEY",
+      "SLOT": "story",
+      "KIND": "IG_STORY",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_SMART_MONEY/story.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_SMART_MONEY/story.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_SMART_MONEY/story.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        2666
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1920
+      ],
+      "SHA256_SOURCE": "c85b655d8c6d516e25e6b92c85d32e6400a0486f4bf1734a42254087290efe15",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_TOKEN_RESEARCH_STORY",
+      "FAMILY": "TPL_TOKEN_RESEARCH",
+      "X_TEMPLATE_ID": "X_TPL_TOKEN_RESEARCH",
+      "SLOT": "story",
+      "KIND": "IG_STORY",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_TOKEN_RESEARCH/story.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_TOKEN_RESEARCH/story.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_TOKEN_RESEARCH/story.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        2666
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1920
+      ],
+      "SHA256_SOURCE": "c2c35fe894664e2a16f12d9fc4f8575b3019eadc5c37a277df06b164d8cbe8e0",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_STOCK_RESEARCH_STORY",
+      "FAMILY": "TPL_STOCK_RESEARCH",
+      "X_TEMPLATE_ID": "X_TPL_STOCK_RESEARCH",
+      "SLOT": "story",
+      "KIND": "IG_STORY",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_STOCK_RESEARCH/story.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_STOCK_RESEARCH/story.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_STOCK_RESEARCH/story.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        2666
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1920
+      ],
+      "SHA256_SOURCE": "36c874eb99eaf98c5f95ef39f6f4efb698a7426cd9e03fbae0a67452634c61a5",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_MACRO_ENERGY_STORY",
+      "FAMILY": "TPL_MACRO_ENERGY",
+      "X_TEMPLATE_ID": "X_TPL_MACRO_ENERGY",
+      "SLOT": "story",
+      "KIND": "IG_STORY",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_MACRO_ENERGY/story.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_MACRO_ENERGY/story.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_MACRO_ENERGY/story.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        2666
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1920
+      ],
+      "SHA256_SOURCE": "0c43d15855cefdbc796c9d4a2d379ee8d5e9ac273fb5e8064e639690e6b817b8",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_BTC_ETF_FLOW_FEED",
+      "FAMILY": "TPL_BTC_ETF_FLOW",
+      "X_TEMPLATE_ID": "X_TPL_BTC_ETF_FLOW",
+      "SLOT": "feed_event",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_BTC_ETF_FLOW/feed_event.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_BTC_ETF_FLOW/feed_event.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_BTC_ETF_FLOW/feed_event.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "cca9f2e771f0584d58e932203848e44a497f2ac3a7dd58b990a9ff7fed24854a",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_WALLET_WHALE_FEED",
+      "FAMILY": "TPL_WALLET_WHALE",
+      "X_TEMPLATE_ID": "X_TPL_WALLET_WHALE",
+      "SLOT": "feed_event",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_WALLET_WHALE/feed_event.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_WALLET_WHALE/feed_event.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_WALLET_WHALE/feed_event.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "62552398a6a994ef9ec5c98b28cdd0c6c23d5c4abf2e6558b8aca89f472d144c",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_SMART_MONEY_FEED",
+      "FAMILY": "TPL_SMART_MONEY",
+      "X_TEMPLATE_ID": "X_TPL_SMART_MONEY",
+      "SLOT": "feed_event",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_SMART_MONEY/feed_event.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_SMART_MONEY/feed_event.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_SMART_MONEY/feed_event.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "9695cd78b5b1e9ae4815b19a0d52ca0ad3b902e8ce9b9e87dfc443aad4f83645",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_TOKEN_RESEARCH_FEED",
+      "FAMILY": "TPL_TOKEN_RESEARCH",
+      "X_TEMPLATE_ID": "X_TPL_TOKEN_RESEARCH",
+      "SLOT": "feed_event",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_TOKEN_RESEARCH/feed_event.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_TOKEN_RESEARCH/feed_event.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_TOKEN_RESEARCH/feed_event.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "cdddb2d7579be76d29cace75341f9b3b8f4abfa1a6555b3b88621191bfdb9b02",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_STOCK_RESEARCH_FEED",
+      "FAMILY": "TPL_STOCK_RESEARCH",
+      "X_TEMPLATE_ID": "X_TPL_STOCK_RESEARCH",
+      "SLOT": "feed_event",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_STOCK_RESEARCH/feed_event.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_STOCK_RESEARCH/feed_event.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_STOCK_RESEARCH/feed_event.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "3aed551e2b580db671590147ac4ecc18b49bf5669ab96c9069025d8464b581ae",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_MACRO_ENERGY_FEED",
+      "FAMILY": "TPL_MACRO_ENERGY",
+      "X_TEMPLATE_ID": "X_TPL_MACRO_ENERGY",
+      "SLOT": "feed_event",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_MACRO_ENERGY/feed_event.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_MACRO_ENERGY/feed_event.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_MACRO_ENERGY/feed_event.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "bc4d81457ea40aa75ceeb095c94d3003d6ee1d680954ec0448042d997fedfa22",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "EVENT_OVERLAY"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_BTC_ETF_FLOW_FEED_PRODUCT",
+      "FAMILY": "TPL_BTC_ETF_FLOW",
+      "X_TEMPLATE_ID": "X_TPL_BTC_ETF_FLOW",
+      "SLOT": "feed_product",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_BTC_ETF_FLOW/feed_product.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_BTC_ETF_FLOW/feed_product.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_BTC_ETF_FLOW/feed_product.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "7038525f1b63e03842cad9999ee79a54af4f2da265cf7488a22bd6caac99cbfa",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "BLOCKED_BAKED_UI"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_WALLET_WHALE_FEED_PRODUCT",
+      "FAMILY": "TPL_WALLET_WHALE",
+      "X_TEMPLATE_ID": "X_TPL_WALLET_WHALE",
+      "SLOT": "feed_product",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_WALLET_WHALE/feed_product.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_WALLET_WHALE/feed_product.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_WALLET_WHALE/feed_product.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "d3574eed230e88598ef9d3b8ae9a499b0882b45f25fa043b33b7d8318d23098b",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "BLOCKED_BAKED_UI"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_SMART_MONEY_FEED_PRODUCT",
+      "FAMILY": "TPL_SMART_MONEY",
+      "X_TEMPLATE_ID": "X_TPL_SMART_MONEY",
+      "SLOT": "feed_product",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_SMART_MONEY/feed_product.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_SMART_MONEY/feed_product.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_SMART_MONEY/feed_product.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "bc82d093754aef5c9db918ea8e197f281f607ec78662c9019136cf0c1d37b9c7",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "BLOCKED_BAKED_UI"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_TOKEN_RESEARCH_FEED_PRODUCT",
+      "FAMILY": "TPL_TOKEN_RESEARCH",
+      "X_TEMPLATE_ID": "X_TPL_TOKEN_RESEARCH",
+      "SLOT": "feed_product",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_TOKEN_RESEARCH/feed_product.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_TOKEN_RESEARCH/feed_product.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_TOKEN_RESEARCH/feed_product.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "feca27630ee7fa51c76aaef009064691b7cca7f1315e98bef78a714e401e79eb",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "BLOCKED_BAKED_UI"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_STOCK_RESEARCH_FEED_PRODUCT",
+      "FAMILY": "TPL_STOCK_RESEARCH",
+      "X_TEMPLATE_ID": "X_TPL_STOCK_RESEARCH",
+      "SLOT": "feed_product",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_STOCK_RESEARCH/feed_product.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_STOCK_RESEARCH/feed_product.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_STOCK_RESEARCH/feed_product.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "350b98cf0b76b21cf721df316dd43a9e181fe44e9f1dc677a2802aec89dbf5dd",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "BLOCKED_BAKED_UI"
+    },
+    {
+      "TEMPLATE_ID": "X_TPL_MACRO_ENERGY_FEED_PRODUCT",
+      "FAMILY": "TPL_MACRO_ENERGY",
+      "X_TEMPLATE_ID": "X_TPL_MACRO_ENERGY",
+      "SLOT": "feed_product",
+      "KIND": "IG_FEED",
+      "SOURCE_MASTER_PATH": "templates/source-masters/TPL_MACRO_ENERGY/feed_product.jpg",
+      "BUNDLE_PATH": "publication-bundle/templates/source-masters/TPL_MACRO_ENERGY/feed_product.jpg",
+      "PUBLIC_URL": "https://raw.githubusercontent.com/samimellalpro/bfyp-public-media/main/templates/source-masters/TPL_MACRO_ENERGY/feed_product.jpg",
+      "VERSION": "2026-09-22.1",
+      "DIMENSIONS_SOURCE": [
+        1500,
+        1875
+      ],
+      "DIMENSIONS_PRODUCTION": [
+        1080,
+        1350
+      ],
+      "SHA256_SOURCE": "6ccb573a180de9b7436240a621c9dbcb4572329c8f69434dab59b539b70cee2b",
+      "LOCKED": true,
+      "APPROVED": true,
+      "IMMUTABLE": true,
+      "SAMPLE_FACTS_ARE_NOT_PRODUCTION": true,
+      "PRODUCTION": "BLOCKED_BAKED_UI"
+    }
+  ]
+}
